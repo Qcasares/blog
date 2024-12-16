@@ -13,6 +13,7 @@ export default function Navbar() {
           <div className="flex items-center space-x-4">
             <Link to="/" className="text-gray-700 hover:text-primary-600">Home</Link>
             <Link to="/blog" className="text-gray-700 hover:text-primary-600">Blog</Link>
+            <Link to="/admin" className="text-gray-700 hover:text-primary-600">Admin</Link>
           </div>
         </div>
       </div>
